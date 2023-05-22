@@ -1,2 +1,2 @@
 # Competitive-Programming
-I solve competitve programming problems from LeetCode, HackerRank and CodeForces here.
+I solve competitive programming problems from LeetCode, HackerRank and CodeForces here.
